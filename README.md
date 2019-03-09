@@ -53,7 +53,7 @@ react-native run-ios
 ## Built With
 
 * [React Native](https://facebook.github.io/react-native/docs/getting-started) - The framework used
-* [React Navigation](https://react-redux.js.org/introduction/quick-start) - State container library 
+* [React Redux](https://react-redux.js.org/introduction/quick-start) - State container library 
 
 
 ## Authors
